@@ -1,0 +1,29 @@
+
+
+.jumbotron{
+	margin: 3rem 0;
+	padding-top: 2rem;
+	background-color: #0F88B5;
+}
+
+.wave1{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+#projects{
+	padding-top: 2rem;
+	background-color: #0F88B5;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+@media (max-width: 576px){
+.btn-github{
+	width: 34%;
+}
+}
+
